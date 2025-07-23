@@ -7,3 +7,4 @@ asyncio
 openai
 tiktoken
 autogen-ext[docker]
+autogen-ext[azure]
